@@ -11,7 +11,7 @@
 
         @Override
         public String getName() {
-            return "Îâäì2015213186";
+            return "å´æ½‡2015213186";
         }
 
         @Override
@@ -24,7 +24,7 @@
         public int take(int index, int last) {
             int average=totalCount/totalPerson;
             int lastaverage=(totalCount-last)/index;
-            //Ë­»áËÀÄØ?
+            //è°ä¼šæ­»ï¼Ÿ
             if(index==0)
             {
                 return average;
