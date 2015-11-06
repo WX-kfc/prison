@@ -1,9 +1,6 @@
-
-/**
- * Created by MSI on 2015/11/6.
- */
-    package com.jude.prisoner;
-     import com.jude.Manger;
+ package com.jude.prisoner;
+     import com.jude.Manager;
+      import com.jude.Prisoner;
 
     public class SimilarMangermode implements Prisoner {
         int totalCount;
