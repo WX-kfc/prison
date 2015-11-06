@@ -1,8 +1,7 @@
  package com.jude.prisoner;
-     import com.jude.Manager;
-      import com.jude.Prisoner;
-
-    public class SimilarMangermode implements Prisoner {
+import com.jude.Manager;
+import com.jude.Prisoner;
+public class SimilarMangermode implements Prisoner {
         int totalCount;
         int totalPerson;
 
